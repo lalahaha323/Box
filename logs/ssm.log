@@ -1,0 +1,684 @@
+[INFO] [2019-06-13 18:35:19][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 18:35:19][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 18:35:19 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:35:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 18:35:19][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 210 ms
+[INFO] [2019-06-13 18:35:19][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 18:35:19][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:35:19 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:35:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 18:35:19][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 163 ms
+[INFO] [2019-06-13 18:38:20][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:35:19 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:38:20][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 18:35:19 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:38:28][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 18:38:28][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 18:38:28 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:38:28][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 18:38:28][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 189 ms
+[INFO] [2019-06-13 18:38:28][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 18:38:28][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:38:28 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:38:28][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 18:38:28][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 142 ms
+[INFO] [2019-06-13 18:39:29][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:38:28 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:39:29][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 18:38:28 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:39:36][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 18:39:36][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 18:39:36 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:39:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 18:39:37][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 206 ms
+[INFO] [2019-06-13 18:39:37][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 18:39:37][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:39:37 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:39:37][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 18:39:37][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 190 ms
+[INFO] [2019-06-13 18:53:59][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:39:37 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:53:59][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 18:39:36 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:54:06][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 18:54:06][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 18:54:06 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:54:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 18:54:06][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 300 ms
+[INFO] [2019-06-13 18:54:06][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 18:54:06][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:54:06 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:54:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 18:54:07][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 267 ms
+[INFO] [2019-06-13 18:55:07][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:54:06 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:55:07][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 18:54:06 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:55:16][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 18:55:16][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 18:55:16 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:55:16][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 18:55:16][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 222 ms
+[INFO] [2019-06-13 18:55:16][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 18:55:16][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:55:16 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:55:16][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 18:55:16][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 228 ms
+[INFO] [2019-06-13 18:55:54][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:55:16 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:55:54][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 18:55:16 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:56:01][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 18:56:01][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 18:56:01 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:56:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 18:56:01][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 185 ms
+[INFO] [2019-06-13 18:56:01][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 18:56:02][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:56:02 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:56:02][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 18:56:02][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 158 ms
+[INFO] [2019-06-13 18:58:11][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:56:02 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:58:11][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 18:56:01 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:58:18][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 18:58:19][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 18:58:19 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 18:58:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 18:58:19][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 180 ms
+[INFO] [2019-06-13 18:58:19][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 18:58:19][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:58:19 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 18:58:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 18:58:19][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 131 ms
+[INFO] [2019-06-13 19:00:18][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 18:58:19 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:00:18][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 18:58:19 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:00:25][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 19:00:25][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 19:00:25 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:00:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 19:00:25][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 199 ms
+[INFO] [2019-06-13 19:00:25][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 19:00:25][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:00:25 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:00:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 19:00:26][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 159 ms
+[INFO] [2019-06-13 19:03:27][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:00:25 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:03:27][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 19:00:25 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:03:34][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 19:03:34][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 19:03:34 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:03:34][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 19:03:34][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 264 ms
+[INFO] [2019-06-13 19:03:34][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 19:03:35][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:03:35 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:03:35][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 19:03:35][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 162 ms
+[INFO] [2019-06-13 19:37:23][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:03:35 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:37:23][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 19:03:34 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:37:33][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 19:37:33][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 19:37:33 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:37:33][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 19:37:33][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 309 ms
+[INFO] [2019-06-13 19:37:33][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 19:37:33][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:37:33 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:37:33][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 19:37:33][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 223 ms
+[WARN] [2019-06-13 19:38:47][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 19:46:35][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 19:47:05][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:37:33 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:47:05][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 19:37:33 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:47:13][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 19:47:13][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 19:47:13 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:47:13][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 19:47:14][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 217 ms
+[INFO] [2019-06-13 19:47:14][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 19:47:14][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:47:14 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:47:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 19:47:14][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 215 ms
+[WARN] [2019-06-13 19:47:39][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 19:53:17][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 19:53:57][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:47:14 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:53:57][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 19:47:13 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:54:04][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 19:54:04][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 19:54:04 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:54:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 19:54:05][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 228 ms
+[INFO] [2019-06-13 19:54:05][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 19:54:05][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:54:05 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:54:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 19:54:05][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 151 ms
+[WARN] [2019-06-13 19:54:22][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 19:54:39][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:54:05 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:54:39][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 19:54:04 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:54:46][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 19:54:46][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 19:54:46 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:54:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 19:54:47][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 230 ms
+[INFO] [2019-06-13 19:54:47][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 19:54:47][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:54:47 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:54:47][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 19:54:47][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 169 ms
+[WARN] [2019-06-13 19:54:55][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 19:58:43][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:54:47 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:58:43][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 19:54:46 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:58:50][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 19:58:50][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 19:58:50 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 19:58:50][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 19:58:51][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 262 ms
+[INFO] [2019-06-13 19:58:51][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 19:58:51][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:58:51 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 19:58:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 19:58:51][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 206 ms
+[WARN] [2019-06-13 19:58:53][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 19:58:56][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:10:58][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 19:58:51 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:10:58][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 19:58:50 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:11:07][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:11:07][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:11:07 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:11:07][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:11:07][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 220 ms
+[INFO] [2019-06-13 20:11:07][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:11:07][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:11:07 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:11:07][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:11:07][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 153 ms
+[WARN] [2019-06-13 20:11:16][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:12:08][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:11:07 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:12:08][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:11:07 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:12:17][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:12:17][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:12:17 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:12:17][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:12:17][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 254 ms
+[INFO] [2019-06-13 20:12:17][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:12:17][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:12:17 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:12:17][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:12:17][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 175 ms
+[WARN] [2019-06-13 20:12:23][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:15:06][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:12:17 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:15:06][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:12:17 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:15:15][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:15:15][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:15:15 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:15:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:15:15][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 227 ms
+[INFO] [2019-06-13 20:15:15][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:15:15][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:15:15 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:15:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:15:15][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 166 ms
+[WARN] [2019-06-13 20:16:01][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:17:02][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:15:15 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:17:02][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:15:15 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:17:09][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:17:09][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:17:09 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:17:10][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:17:10][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 242 ms
+[INFO] [2019-06-13 20:17:10][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:17:10][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:17:10 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:17:10][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:17:10][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 172 ms
+[WARN] [2019-06-13 20:17:10][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:17:11][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:17:11][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:23:17][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:17:10 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:23:17][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:17:09 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:23:26][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:23:26][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:23:26 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:23:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:23:26][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 443 ms
+[INFO] [2019-06-13 20:23:26][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:23:26][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:23:26 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:23:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:23:26][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 235 ms
+[WARN] [2019-06-13 20:23:27][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:23:28][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:23:46][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:30:37][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:23:26 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:30:37][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:23:26 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:30:54][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:30:54][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:30:54 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:30:54][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:30:54][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 583 ms
+[INFO] [2019-06-13 20:30:54][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:30:54][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:30:54 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:30:54][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:30:55][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 408 ms
+[WARN] [2019-06-13 20:30:55][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:30:56][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:31:04][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/indexjsp] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:31:26][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:30:54 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:31:26][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:30:54 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:31:39][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:31:39][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:31:39 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:31:39][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:31:40][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 503 ms
+[INFO] [2019-06-13 20:31:40][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:31:40][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:31:40 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:31:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:31:40][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 275 ms
+[WARN] [2019-06-13 20:31:41][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:31:42][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:31:52][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/index.jsp] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:32:14][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:31:40 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:32:14][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:31:39 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:32:26][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:32:26][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:32:26 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:32:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:32:26][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 257 ms
+[INFO] [2019-06-13 20:32:26][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:32:26][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:32:26 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:32:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:32:26][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 173 ms
+[WARN] [2019-06-13 20:33:38][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:38:40][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:32:26 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:38:40][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:32:26 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:38:51][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:38:51][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:38:51 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:38:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:38:51][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 218 ms
+[INFO] [2019-06-13 20:38:51][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:38:51][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:38:51 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:38:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:38:51][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 177 ms
+[WARN] [2019-06-13 20:39:10][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:41:41][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:38:51 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:41:41][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:38:51 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:41:48][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:41:48][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:41:48 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:41:48][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:41:49][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 221 ms
+[INFO] [2019-06-13 20:41:49][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:41:49][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:41:49 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:41:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:41:49][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 162 ms
+[WARN] [2019-06-13 20:41:49][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:41:50][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:42:06][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:41:49 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:42:06][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:41:48 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:42:13][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:42:13][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:42:13 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:42:13][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:42:13][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 205 ms
+[INFO] [2019-06-13 20:42:13][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:42:13][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:42:13 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:42:13][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:42:13][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 163 ms
+[INFO] [2019-06-13 20:42:28][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:42:13 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:42:28][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:42:13 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:42:38][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:42:38][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:42:38 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:42:38][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:42:38][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 230 ms
+[INFO] [2019-06-13 20:42:38][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:42:38][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:42:38 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:42:38][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:42:39][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 299 ms
+[WARN] [2019-06-13 20:42:39][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:42:39][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 20:42:46][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/index.jsp] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:42:59][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:42:38 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:42:59][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:42:38 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:43:07][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:43:07][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:43:07 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:43:07][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:43:07][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 302 ms
+[INFO] [2019-06-13 20:43:07][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:43:07][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:43:07 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:43:07][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:43:08][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 194 ms
+[WARN] [2019-06-13 20:43:18][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:52:32][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:43:07 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:52:32][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:43:07 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:52:42][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:52:42][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:52:42 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:52:43][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:52:43][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 241 ms
+[INFO] [2019-06-13 20:52:43][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:52:43][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:52:43 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:52:43][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:52:43][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 154 ms
+[WARN] [2019-06-13 20:52:45][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 20:57:25][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:52:43 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:57:25][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:52:42 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:57:33][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 20:57:33][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 20:57:33 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 20:57:33][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 20:57:33][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 208 ms
+[INFO] [2019-06-13 20:57:33][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 20:57:33][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:57:33 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 20:57:33][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 20:57:33][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 144 ms
+[WARN] [2019-06-13 20:57:41][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 21:16:36][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 20:57:33 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:16:36][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 20:57:33 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:16:45][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 21:16:45][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 21:16:45 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:16:45][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 21:16:46][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 225 ms
+[INFO] [2019-06-13 21:16:46][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 21:16:46][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:16:46 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:16:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[WARN] [2019-06-13 21:16:46][org.springframework.web.context.support.XmlWebApplicationContext]Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[ERROR] [2019-06-13 21:16:46][org.springframework.web.servlet.DispatcherServlet]Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:543)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:772)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:839)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:538)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:682)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:553)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:494)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:171)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:983)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5003)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5317)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.manageApp(HostConfig.java:1736)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.mbeans.MBeanFactory.createStandardContext(MBeanFactory.java:483)
+	at org.apache.catalina.mbeans.MBeanFactory.createStandardContext(MBeanFactory.java:432)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:809)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at java.management/com.sun.jmx.remote.security.MBeanServerAccessController.invoke(MBeanServerAccessController.java:468)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1466)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1307)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:688)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1406)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:827)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:359)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:688)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:562)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:796)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:677)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:676)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:573)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 66 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:543)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1192)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1116)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:545)
+	... 68 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:573)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 79 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1373)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1119)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:545)
+	... 81 more
+[INFO] [2019-06-13 21:16:46][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 21:16:46][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:16:46 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:16:46][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[WARN] [2019-06-13 21:16:46][org.springframework.web.context.support.XmlWebApplicationContext]Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[ERROR] [2019-06-13 21:16:46][org.springframework.web.servlet.DispatcherServlet]Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:543)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:772)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:839)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:538)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:682)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:553)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:494)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:171)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:773)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.box.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.box.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:573)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 37 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:543)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1192)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1116)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:545)
+	... 39 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:573)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 50 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1373)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1119)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:545)
+	... 52 more
+[INFO] [2019-06-13 21:16:47][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 21:16:47][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:16:47 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:16:47][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[WARN] [2019-06-13 21:16:47][org.springframework.web.context.support.XmlWebApplicationContext]Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[ERROR] [2019-06-13 21:16:47][org.springframework.web.servlet.DispatcherServlet]Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:543)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:772)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:839)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:538)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:682)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:553)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:494)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:171)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:773)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:134)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.box.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.box.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:806)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1498)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.service.impl.UserServiceImpl box.controller.UserController.userServiceImpl; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:573)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 37 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:543)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1192)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1116)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:545)
+	... 39 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private box.mapper.UserMapper box.service.impl.UserServiceImpl.userMapper; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:573)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 50 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [box.mapper.UserMapper] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoSuchBeanDefinitionException(DefaultListableBeanFactory.java:1373)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1119)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:545)
+	... 52 more
+[INFO] [2019-06-13 21:23:50][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 21:16:45 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:23:59][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 21:23:59][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 21:23:59 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:23:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 21:23:59][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 244 ms
+[INFO] [2019-06-13 21:23:59][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 21:23:59][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:23:59 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:23:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 21:23:59][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 166 ms
+[WARN] [2019-06-13 21:23:59][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 21:24:00][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 21:24:08][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 21:33:35][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:23:59 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:33:35][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 21:23:59 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:33:43][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 21:33:43][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 21:33:43 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:33:43][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 21:33:43][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 228 ms
+[INFO] [2019-06-13 21:33:43][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 21:33:43][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:33:43 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:33:43][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 21:33:43][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 172 ms
+[WARN] [2019-06-13 21:33:44][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 21:33:44][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 21:33:49][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 21:34:13][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:33:43 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:34:13][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 21:33:43 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:34:20][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 21:34:20][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 21:34:20 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:34:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 21:34:20][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 233 ms
+[INFO] [2019-06-13 21:34:20][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 21:34:20][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:34:20 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:34:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 21:34:21][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 162 ms
+[WARN] [2019-06-13 21:34:32][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/login] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 21:35:44][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 21:43:05][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:34:20 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:43:05][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 21:34:20 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:43:12][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 21:43:12][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 21:43:12 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:43:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 21:43:12][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 211 ms
+[INFO] [2019-06-13 21:43:12][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 21:43:12][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:43:12 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:43:12][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 21:43:13][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 163 ms
+[WARN] [2019-06-13 21:43:27][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 21:50:50][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:43:12 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:50:50][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 21:43:12 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:51:51][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 21:51:51][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 21:51:51 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 21:51:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 21:51:51][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 208 ms
+[INFO] [2019-06-13 21:51:52][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 21:51:52][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:51:52 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 21:51:52][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 21:51:52][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 137 ms
+[WARN] [2019-06-13 21:52:04][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 22:01:23][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 21:51:52 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 22:01:23][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 21:51:51 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 22:01:31][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 22:01:31][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 22:01:31 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 22:01:31][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 22:01:31][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 204 ms
+[INFO] [2019-06-13 22:01:31][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 22:01:31][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 22:01:31 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 22:01:31][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 22:01:31][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 142 ms
+[WARN] [2019-06-13 22:01:52][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 22:16:44][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 22:16:44][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 22:16:44 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 22:16:44][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 22:16:44][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 188 ms
+[INFO] [2019-06-13 22:16:44][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 22:16:44][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 22:16:44 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 22:16:44][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 22:16:45][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 132 ms
+[WARN] [2019-06-13 22:16:45][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 22:16:45][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 22:17:20][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 22:16:44 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 22:17:20][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 22:16:44 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 22:17:27][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 22:17:27][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 22:17:27 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 22:17:27][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 22:17:27][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 196 ms
+[INFO] [2019-06-13 22:17:28][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 22:17:28][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 22:17:28 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 22:17:28][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 22:17:28][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 130 ms
+[WARN] [2019-06-13 22:17:36][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/login] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 22:17:44][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/user/login] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 22:20:53][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 22:17:28 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 22:20:53][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 22:17:27 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 22:21:01][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization started
+[INFO] [2019-06-13 22:21:01][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing Root WebApplicationContext: startup date [Thu Jun 13 22:21:01 CST 2019]; root of context hierarchy
+[INFO] [2019-06-13 22:21:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+[INFO] [2019-06-13 22:21:02][org.springframework.web.context.ContextLoader]Root WebApplicationContext: initialization completed in 178 ms
+[INFO] [2019-06-13 22:21:02][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization started
+[INFO] [2019-06-13 22:21:02][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 22:21:02 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 22:21:02][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+[INFO] [2019-06-13 22:21:02][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'dispatcher': initialization completed in 146 ms
+[WARN] [2019-06-13 22:21:02][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[WARN] [2019-06-13 22:21:03][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/Box_war_exploded/] in DispatcherServlet with name 'dispatcher'
+[INFO] [2019-06-13 22:22:17][org.springframework.web.context.support.XmlWebApplicationContext]Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Jun 13 22:21:02 CST 2019]; parent: Root WebApplicationContext
+[INFO] [2019-06-13 22:22:17][org.springframework.web.context.support.XmlWebApplicationContext]Closing Root WebApplicationContext: startup date [Thu Jun 13 22:21:01 CST 2019]; root of context hierarchy

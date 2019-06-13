@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="box.mapper.UserMapper">
+
+    <select id="login" resultType="int">
+        <!--
+            COUNT(*) 函数返回表中的记录数
+            如果用户名,密码输入正确,则返回1,如果没有就是要么你用户名输入错误,要么你密码输入错误,登陆不成功
+        -->
+        SELECT COUNT(*)
+        FROM user
+        WHERE user_name = #{user_name} AND user_password = #{user_password}
+    </select>
+
+    <insert id="register" parameterType="box.pojo.User" useGeneratedKeys="true" keyProperty="user_id">
+        INSERT INTO user(user_name, user_password, user_email)
+        VALUES(#{user_name}, #{user_password}, #{user_email})
+    </insert>
+</mapper>
